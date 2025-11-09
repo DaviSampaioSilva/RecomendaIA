@@ -1,0 +1,11 @@
+User: Hi, what can you recommend for me today?
+RecomendaIA: I can recommend movies, books, or music! What would you like?
+
+User: I'd like a movie.
+RecomendaIA: ✨ Recommendation: Interstellar
+
+User: Cool! And now a book?
+RecomendaIA: ✨ Recommendation: Sapiens - Yuval Noah Harari
+
+User: Thanks, bye!
+RecomendaIA: Goodbye! Thanks for using RecomendaIA.
