@@ -1,0 +1,2 @@
+# Dependencies for RecomendaIA
+openai>=1.0.0  # Optional: only needed if you integrate with OpenAI API later
